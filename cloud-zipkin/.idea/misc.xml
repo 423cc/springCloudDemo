@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="CopyrightManager" default="" />
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../intellinJ/XG/ap-receive-server" value="1462958306726" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/XG/ap-receive-server-8af38abcd3c01f70798f655f37e4c85fa2ad8102/ap-receive-server" value="1462939078498" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/XG/api/hd-api" value="39499904045323" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/XG/api/wmall-api" value="42439648398202" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/XG/bos-provider" value="1466735427815" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/XG/datacenter" value="1463025124786" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/XG/hd-provider" value="1463648860834" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/XG/o2o-web" value="1463556213856" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/XG/pos" value="1463041716789" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/XG/pos-provider" value="1463041743886" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/XG/shanghai" value="2931445321057" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/XG/wechat-provider" value="1463042275857" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/XG/yun-provider" value="1463042865866" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/aaaa" value="4429017202379" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-activity-provider" value="1480303210165" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-advertisement-provider" value="1463121111569" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-ap-provider" value="1480306325976" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-ap-receive-server" value="1480303883464" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-api" value="39502291014598" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-api/yun-api" value="39502291014598" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-bos-provider" value="1470037047835" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-core" value="1467601007564" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-datacenter" value="1463121006045" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-dictionary-provider" value="1463120949525" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-discover/interface" value="1466059540488" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-discover/server" value="1463976614524" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-evaluate-provider" value="1463120813626" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-hd-provider" value="1463120739531" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-imall" value="1480302514999" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-imall-provider" value="1480476924865" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-led" value="7315603465667" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-led-app-server" value="1465285918484" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-led-provider" value="1463120603239" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-location-provider" value="1463120555159" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-log-provider" value="1463120442866" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-media-provider" value="1463120419690" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-o2o-web" value="1463120364732" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-order-provider" value="1463120287258" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-pos" value="1463120251525" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-pos-provider" value="1463120175076" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-product-provider" value="1463120144332" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-promotion-provider" value="1463106308057" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-redis-provider" value="1463120117826" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-server-monitor" value="2926240178032" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-server-monitor-web" value="2926240098356" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-special-provider" value="1463119968959" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-statistic-provider" value="1480477025984" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-store-provider" value="1463119867529" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-user-provider" value="1463119717508" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-vip-provider" value="1463119645708" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-warehouse-provider" value="1463119473677" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-wechat-provider" value="1463117924250" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-wechatMQ-provider" value="1463111973818" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-wechatMQ-server" value="1463111542128" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-weixin" value="1463111289531" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-wmall" value="1463111096363" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-wmall-provider" value="1463111182052" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-xuege" value="21946612231027" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-xuege-open-api" value="1480301807598" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-xuege/xuege-rocketmq" value="21949899071036" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/ocrx/ocrx-yun-provider" value="1463106463113" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/xuege/activity-provider" value="1480045430476" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/xuege/api" value="44401229639360" />
+        <entry key="$PROJECT_DIR$/../../../intellinJ/xuege/pos" value="1480300959932" />
+        <entry key="$PROJECT_DIR$/../../../spring-framework-master" value="5904279235995" />
+        <entry key="$PROJECT_DIR$/../../../temp/Office-365-SDK-for-Java-master/samples/files-sample" value="2938371526603" />
+        <entry key="$PROJECT_DIR$/../../../temp/Office-365-SDK-for-Java-master/sdk/sharepoint-services" value="14691857713953" />
+        <entry key="$PROJECT_DIR$/../../../workspace/bosideng/bosideng-admin/service" value="2938313969532" />
+        <entry key="$PROJECT_DIR$/../../../workspace_git/springboot" value="2950430582852" />
+        <entry key="$PROJECT_DIR$/../../../workspace_git/test03/rocketmqTest" value="1474972830421" />
+        <entry key="$PROJECT_DIR$/../../../workspace_git/test03/springboot" value="2950430582852" />
+      </map>
+    </option>
+  </component>
+  <component name="IdProvider" IDEtalkID="249241AFCD4B88A9CBC933CCB06F8F85" />
+  <component name="InspectionProjectProfileManager">
+    <profiles>
+      <profile version="1.0" is_locked="false">
+        <option name="myName" value="Project Default" />
+        <option name="myLocal" value="false" />
+        <inspection_tool class="LoggerInitializedWithForeignClass" enabled="false" level="WARNING" enabled_by_default="false">
+          <option name="loggerClassName" value="org.apache.log4j.Logger,org.slf4j.LoggerFactory,org.apache.commons.logging.LogFactory,java.util.logging.Logger" />
+          <option name="loggerFactoryMethodName" value="getLogger,getLogger,getLog,getLogger" />
+        </inspection_tool>
+        <inspection_tool class="SpringFacetInspection" enabled="false" level="WARNING" enabled_by_default="false">
+          <option name="checkTestFiles" value="false" />
+        </inspection_tool>
+        <inspection_tool class="SpringJavaAutowiringInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+      </profile>
+    </profiles>
+    <option name="PROJECT_PROFILE" value="Project Default" />
+    <option name="USE_PROJECT_PROFILE" value="true" />
+    <version value="1.0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="Errors" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_91/bin/jvisualvm.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ThriftCompiler">
+    <compilers />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
