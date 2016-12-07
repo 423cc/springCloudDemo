@@ -5,12 +5,27 @@
 	<groupId>cloud.simple</groupId>
 	<artifactId>root</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
 	<name>root</name>
 	<url>http://maven.apache.org</url>
 
-	<!--<modules>-->
-        <!--<module>cloud-thrift-server</module>-->
-        <!--<module>cloud-thrift-interface</module>-->
-    <!--</modules>-->
+	<modules>
+        <module>cloud-api-gateway</module>
+        <module>cloud-config-server</module>
+        <module>cloud-eureka-server</module>
+        <module>cloud-hystrix-dashboard</module>
+        <module>cloud-hystrix-turbine</module>
+        <module>cloud-monitor-server</module>
+        <module>cloud-simple-docker</module>
+        <module>cloud-simple-helloword</module>
+        <module>cloud-simple-log4j</module>
+        <module>cloud-simple-service</module>
+        <module>cloud-simple-ui</module>
+        <module>cloud-thrift-client</module>
+        <module>cloud-thrift-interface</module>
+        <module>cloud-thrift-server</module>
+        <module>cloud-zipkin</module>
+    </modules>
+
 </project>
